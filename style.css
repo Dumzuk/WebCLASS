@@ -1,0 +1,355 @@
+a{
+    color: rgb(0, 0, 0);
+    text-decoration:none;
+}
+*{
+    margin: 0%;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+    width: 100%;
+    font-size: large;
+    
+}
+header img{
+    margin-top: 10px;
+    float: left;
+    margin-left: 40px;
+
+    width: 600 px;
+}
+.container{
+    width: 100% ;
+    margin: 300 auto;
+    padding: 0%
+    
+}
+.titlu h1{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px 0px;
+    margin-left: 38%;
+}
+nav{
+    float: right;
+    
+    }
+    nav ul{
+        margin-top: 30px
+        text-align: center;
+        font-size: 100px;
+        margin-left: 90% 0%% ;
+        
+        
+       
+    }
+    nav ul li{
+        display: inline-block;
+        margin: 30px;
+        font-size: medium;
+        margin-top: 40px;
+    }
+    nav ul li a{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    header img{
+        margin-top: 100px;
+        float: left;
+        margin-left: 5%;
+    }
+    section img{
+        margin-top: 100px;
+        float: left;
+        margin-left: 5%;
+    }
+    .class p{
+        margin-left: 5%;
+        font-size: large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .class a{
+        margin-left: 5%;
+        color: red;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .class h3{
+        margin-left: 30%;
+        font-size: large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .noutati p{
+        margin-left: 37%;
+        
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .noutati a{
+        margin-left: 2.4%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .tractor p{
+        margin-left: 37%;
+        
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .tractor a{
+        margin-left: 37%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    footer img{
+        margin-top: 100px;
+        float: left;
+        margin-left: -30%;
+    }
+    .mare a{
+        margin-left: 37%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .mare p{
+        margin-left: 37%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .grup p{
+        margin-left: 37%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .grup a{
+        margin-left: 2.4%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .notatii p{
+        margin-left: 37%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .notatii a{
+        margin-left: 2.4%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .noutati h3{
+        margin-left: 5%;
+        font-size: large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    section .hala{
+        margin-top: 100px;
+        float: left;
+        margin-left: -31.5%;
+    }
+    .hala p { 
+        margin-left: 37%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .hala a{
+        margin-left: 37%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .rotite img{
+        margin-left: 5%;
+    }
+    .rotite p{
+        margin-left: 5%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .training img{
+       
+        margin-left: 5%;
+        
+    }
+    .tabel{
+        width: 100% ;
+        background-color: rgb(255, 255, 255);
+        padding: 60px 0px;
+        margin-top: 10%;
+        
+        
+        
+       
+       
+        
+    }
+    .tabel table{
+       
+        background-color: #606060;
+        width: 100%;
+        
+       
+        
+        
+        
+       
+       
+    }
+    .tabel table th{
+        text-align-last: left;
+        size: 20px;
+        padding: 5px 0px;
+        
+        
+      
+        
+        
+        
+    }
+    .tabel table tr{
+       border-style: solid;
+        border-width: 30px;
+        border-color: black;
+        
+        
+        
+        
+        
+        
+    }
+    
+    .tabel table td{
+        color:black;
+        padding: 7px 0px;
+        
+        
+        
+        
+        
+        
+    }
+    .film {
+        margin-left: 5%;
+    }
+    .first p{
+        margin-left: 5%;
+        
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .first a{
+        margin-left: 5%;
+        color: rgb(255, 0, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+   footer .ceo{
+margin-left: 5%;
+   }
+
+   }
+   .tabell p{
+       margin-left: 60%;
+   }
+   .parteneri h3{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .parteneri p{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .parteneri a{
+    margin-left: 5%;
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .service h3{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .service h7{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .service p{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   section .service{
+    margin-top: 10px;
+    float: left;
+    margin-left: 1.5%;
+
+    width: 600 px;
+   }
+   .text h3{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .text p{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .imagini a{
+       margin-left: 5%;
+       padding:25px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .fb h3{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .fb a{
+    padding:25px;
+    margin-left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .campanii h3{
+    margin-left: 5%;
+        
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .campanii a{
+    margin-left: 5%;
+    padding:25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .ceva a{
+    margin-left: 5%;
+    padding:80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .unu a{
+    margin-left: 5%;
+    padding:60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .doi a{
+    margin-left: 5%;
+    padding:11px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .trei a{
+    margin-left: 5%;
+    padding:2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .tractor a{
+    margin-left: 5%;
+    color: black;
+    padding:70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .cevaa a{
+    margin-left: 5%;
+    color: rgb(0, 0, 0);
+    padding:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .ceva a{
+    margin-left: 5%;
+    color: rgb(0, 0, 0);
+    padding:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
